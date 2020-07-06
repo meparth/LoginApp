@@ -8,9 +8,9 @@ var app = express();
 
 var config = {
     host : 'localhost', 
-    user : 'root',
-    password : 'DingDong',
-    database : 'user'
+    user : 'username',
+    password : 'password',
+    database : 'db'
 }
 
 var connection = mysql.createConnection(config);
