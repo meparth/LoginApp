@@ -8,4 +8,4 @@ The only functionality of this application is to log in users using preregistere
 
  *Email Address: somebody@gmail.com*
  
- *password: password*
+ *Password: password*
